@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/532523732395245774/e8d119de8ffc4b7fa52ba9fcf8b06424/artifacts
+end_time: 1747341107181
+entry_point_name: ''
+experiment_id: '532523732395245774'
+lifecycle_stage: active
+run_id: e8d119de8ffc4b7fa52ba9fcf8b06424
+run_name: brawny-moth-308
+run_uuid: e8d119de8ffc4b7fa52ba9fcf8b06424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747341068859
+status: 3
+tags: []
+user_id: root
