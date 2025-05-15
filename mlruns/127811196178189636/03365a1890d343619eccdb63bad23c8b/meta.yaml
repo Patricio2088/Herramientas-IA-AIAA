@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/127811196178189636/03365a1890d343619eccdb63bad23c8b/artifacts
+end_time: 1747338364010
+entry_point_name: ''
+experiment_id: '127811196178189636'
+lifecycle_stage: active
+run_id: 03365a1890d343619eccdb63bad23c8b
+run_name: nimble-gnu-915
+run_uuid: 03365a1890d343619eccdb63bad23c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747338318327
+status: 3
+tags: []
+user_id: root
