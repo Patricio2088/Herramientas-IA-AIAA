@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/716610728571223539/ea7846441a7c46319d0aafdbd45a43d4/artifacts
+end_time: 1747342454956
+entry_point_name: ''
+experiment_id: '716610728571223539'
+lifecycle_stage: active
+run_id: ea7846441a7c46319d0aafdbd45a43d4
+run_name: skillful-cod-11
+run_uuid: ea7846441a7c46319d0aafdbd45a43d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747342404831
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,6 @@
+artifact_location: file:///content/mlruns/716610728571223539
+creation_time: 1747342404219
+experiment_id: '716610728571223539'
+last_update_time: 1747342404219
+lifecycle_stage: active
+name: DepressionClassifier
